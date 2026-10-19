@@ -1,0 +1,7 @@
+Qu'est-ce que l'informatique ? Qu'est-ce qui la distingue des autres
+disciplines auxquelles elle est liée ? Quel est le fil conducteur qui
+rassemble ces branches disparates en une seule discipline ? Ma réponse
+à ces questions est simple : c'est l'art de programmer un
+ordinateur. C'est l'art de concevoir des méthodes efficaces et
+élégantes permettant à un ordinateur de résoudre des problèmes,
+théoriques ou pratiques, petits ou grands, simples ou complexes.
